@@ -1,5 +1,5 @@
 {
-  "name": "onesignal-node",
+  "name": "@adam_park/onesignal-node",
   "version": "3.4.0",
   "description": "A Node.js Library for OneSignal push notification service",
   "engines": {
